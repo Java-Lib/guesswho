@@ -8,7 +8,7 @@ local en = {
     round_creating = "Creating NPCs",
     round_hide = "Hide",
     round_seek = "Seek",
-    round_post = "Next round soon",
+    round_post = "Round is starting soon",
     round_nav_gen = "Generating Navmesh",
 
     --Team Names
